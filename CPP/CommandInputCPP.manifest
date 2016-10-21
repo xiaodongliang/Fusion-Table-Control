@@ -1,0 +1,15 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"Xiaodong Liang",
+	"description":	{
+		"":	"This is an addin on Command Input in C++"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"id":	"475f2a0c-1c45-4715-a871-3b013e589b70",
+	"version":	"1.0",
+	"runOnStartup":	false,
+	"sourcewindows":	"CommandInputCPP.vcxproj",
+	"sourcemac":	"CommandInputCPP.xcodeproj"
+}
